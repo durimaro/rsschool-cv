@@ -29,7 +29,7 @@ Engineer at Internet provider company
 Russian
 
 ##english
-I'm studying with a teacher 
+I'm studying with a teacher
 
 
 ![](C:\Users\tansu\OneDrive\Рабочий стол\rs_school\rsschool-cv.picture)
