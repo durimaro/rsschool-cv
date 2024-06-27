@@ -1,35 +1,35 @@
-#TATIANA SKOBKAREVA
+# TATIANA SKOBKAREVA
 -----------
 
-##contact
+## contact
 
 * *address:* Kubanskaya st., Krasnodar, Russia
 * *phone:* +79886036840
 * *e-mail:* tansulu2001@gmail.com
 * *github:* durimaro
 
-##summary
+## summary
 I am working manager but I going to learn programing. I haven't got web-project yet. I hope to make it in your school. I am learning English language but one isn't very good yet. Also I like to read books.
 
-##skills
+## skills
 * Windos OC
 * Excel
 * English language
 
-##code examples
+## code examples
 
-##education
+## education
 **Siberian State University of Telecommunications and Informatics**, Khabarovsk
  - Communication networks and switching systems
 
-##experience
+## experience
 Engineer at Internet provider company
 
-##languages
+## languages
 Russian
 
-##english
+## english
 I'm studying with a teacher
 
 
-![](C:\Users\tansu\OneDrive\Рабочий стол\rs_school\rsschool-cv.picture)
+![avatar](C:\Users\tansu\OneDrive\Рабочий стол\rs_school\rsschool-cv.picture)
