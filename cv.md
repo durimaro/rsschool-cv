@@ -1,4 +1,4 @@
-# TATIANA SKOBKAREVA
+TATIANA SKOBKAREVA
 -----------
 
 ## contact
@@ -32,4 +32,4 @@ Russian
 I'm studying with a teacher
 
 
-![avatar](C:\Users\tansu\OneDrive\Рабочий стол\rs_school\rsschool-cv.picture)
+![avatar](https://github.com/durimaro/rsschool-cv/blob/gh-pages/picture.jpg)
